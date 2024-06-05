@@ -37,11 +37,9 @@ public class NewTest {
   public void e() {
       System.out.println("Eclpise e5");
 	  System.out.println("Eclipse e2");
-<<<<<<< Updated upstream
-    System.out.println("Eclipse e3");
-=======
+   System.out.println("Eclipse e3");
 	  System.out.println("Stashed change from Eclipse");
->>>>>>> Stashed changes
+
 
   }
   
