@@ -25,8 +25,9 @@ public class NewTest {
   
   @Test
   public void e() {
-	  System.out.println("Eclipse e");
+      System.out.println("Visual Studio e");
 	  System.out.println("Eclipse e2");
+
   }
   
   
