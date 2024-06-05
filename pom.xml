@@ -4,19 +4,13 @@
   <artifactId>GitDemo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
-  <dependencies>
+  <dependencies> 
   
-  <!-- https://mvnrepository.com/artifact/org.testng/testng -->
-<dependency>
-    <groupId>org.testng</groupId>
-    <artifactId>testng</artifactId>
-    <version>7.10.2</version>
-    <scope>test</scope>
-</dependency>
-
-  
-  
-  
+    <dependency>
+      <groupId>org.testng</groupId>
+      <artifactId>testng</artifactId>
+      <version>7.0.0</version>
+    </dependency>
   </dependencies>
   
 </project>
