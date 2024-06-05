@@ -31,6 +31,7 @@ public class NewTest {
 	  System.out.println("Eclipse d");
 	  System.out.println("Eclipse d2");
       System.out.println("First Commit");
+      System.out.println("Second Commit");
   }
   
   @Test
